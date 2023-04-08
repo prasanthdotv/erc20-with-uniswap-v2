@@ -60,7 +60,7 @@ Run below commands
 
 ## Initial Setup
 
-1. Clone Repo from https://github.com/prasanthdotv/erc20-with-uniswapv2
+1. Clone Repo from https://github.com/prasanthdotv/erc20-with-uniswap-v2
 2. Open Terminal in the project folder and run `npm install` to install the dependencies.
 
 ## Contract Testing (optional)
